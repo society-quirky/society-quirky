@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @society-quirky
 - 👀 I’m interested in learning to be technology literate
-- 🌱 I took some courses on Python with prof Charles Severance on Coursera
+- 🌱 I took some courses on Python on Coursera
 - 🪴 I join hackathons with tech whizzes
-- 🌱 I want to learn applications of Amazon Web Services, AI prompting
+- 🌱 I want to get better at AI prompting (and using Github)
 - 💞️ I’m looking to collaborate on legaltech and fintech projects
 - 📫 How to reach me ... Email!
 
